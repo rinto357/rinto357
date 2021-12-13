@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## Samples, Projects, Resources
-- (pp) [Myr Retriever](https://glitch.com/embed/#!/embed/safe-alabaster-sycamore), some quick and dirty code used to create a slackbot that returns a list of all Magic The Gathering cards matching a standard [Scryfall](https://scryfall.com/) search query.
-- (collection) [Just the Gist - CSS](https://gist.github.com/rinto357/89492fe50be3695ca7802693f1ba3eb9), some of my favorite resources and bits of advice for working with CSS.
+## Samples and Resources
+- *(sample)* [Myr Retriever](https://glitch.com/embed/#!/embed/safe-alabaster-sycamore), some quick and dirty code used to create a slackbot that returns a list of all Magic The Gathering cards matching a standard [Scryfall](https://scryfall.com/) search query.
+- *(resource)* [Just the Gist - CSS](https://gist.github.com/rinto357/89492fe50be3695ca7802693f1ba3eb9), some of my favorite resources and bits of advice for working with CSS.
