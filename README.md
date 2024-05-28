@@ -4,7 +4,7 @@ I'm a front-end developer, TTRPG fanatic, and author of short stories.
 
 - 🔭 I’m currently working on a Pokedex-like app for the game _Cassette Beasts_.
 - 🌱 I’m currently learning React-Native.
-- 🤔 I’m looking for help with app visual design.
+- 🤔 I’m looking for help with mobile app visual design.
 - 💬 Ask me about minimalistic CSS.
 - 📫 Reach me here for now.
 
